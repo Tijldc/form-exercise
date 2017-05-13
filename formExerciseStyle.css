@@ -1,0 +1,83 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	
+	background-color: #53BCE9;
+	margin-top: 50px;
+}
+
+/* body */
+
+/* logo */
+
+.logoDiv {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.logo {
+	height: 35px;
+	
+}
+
+.container {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+/* main */
+
+.signUp {
+	background-color: white;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	border-radius: 5px;
+
+}
+
+main h1 {
+	text-align: center;
+}
+
+
+form input, button  {
+	width: 320px;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+input, button {
+	height: 40px;
+	border-radius: 5px;
+}
+
+
+button {
+	background-color: #68EC6D;
+	border: 1px solid #68EC6D;
+	color: white;
+	font-size: 1.2em;
+}
+
+button:hover {
+	background-color: #48EB4F;
+}
+
+main a {
+	color: grey;
+	}
+
+.link {
+	text-align: center;
+}
+
+main h5 {
+	text-align: center;
+}
